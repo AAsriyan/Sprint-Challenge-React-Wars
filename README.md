@@ -26,11 +26,21 @@ Demonstrate your understanding of this Sprint's concepts by answering the follow
 
 - [ ] What is React JS and what problems does it try and solve? Support your answer with concepts introduced in class and from your personal research on the web.
 
+A: React is a library and the problems it tries to solve is the static nature of a website when interacting through the DOM. React makes it possible to create reusable components that can have its state updated without messing with other components on the webpage.
+
 - [ ] What does it mean to _think_ in react?
+
+A: Thinking in React means breaking up the UI into components that usually have one responsibility. A search bar, a list, and an item inside the list can all be different components that integrate with each other to build a larger app.
+
 
 - [ ] Describe state.
 
+A: State is a feature that is tied with the class component. It is similar to props but we can have it change on the component.
+
 - [ ] Describe props.
+
+A: Props are immutable and a component can only read the props given to it and can’t change it.
+
 
 ## Project Set Up
 
