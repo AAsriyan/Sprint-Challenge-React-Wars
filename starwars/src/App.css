@@ -16,10 +16,9 @@ ul {
 
 li {
   list-style-type: none;
-  color: white;
+  color: rgb(201, 194, 194);
   list-style-position: inside;
   padding: 10px;
-  text-shadow: 1px 1px 5px rgba(7, 30, 80, 0.87);
 }
 
 .character {
@@ -43,4 +42,8 @@ h2 {
   text-decoration: underline;
   color: rgb(233, 161, 54);
   text-shadow: 1px 1px 5px rgba(7, 30, 80, 0.87);
+}
+
+strong {
+  color: white;
 }

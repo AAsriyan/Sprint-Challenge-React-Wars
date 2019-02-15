@@ -10,9 +10,6 @@ const Character = props => {
         <li><strong>Gender: </strong>{props.character.gender}</li>
         <li><strong>Skin Color: </strong>{props.character.skin_color}</li>
         <li><strong>Eye Color: </strong>{props.character.eye_color}</li>
-        {/* <li><strong>Films: </strong><a href={props.character.films}></a></li> */}
-        {/* <li><strong>Films: </strong><a href={props.character.films}></a></li> */}
-        {/* <li><strong>Films: </strong><img src={props.character.films} alt=""/></li> */}
       </ul>
     </div>
     
